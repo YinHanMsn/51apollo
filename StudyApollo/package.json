@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "moment": "^2.20.1",
+    "moment": "^2.29.2",
     "react": "16.2.0",
     "react-native": "0.52.1",
     "react-native-htmlview": "^0.12.1",
